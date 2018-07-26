@@ -16,3 +16,7 @@
     height: 800px;
     width: 100%;
 }
+
+.entry-summary {
+	border-bottom: 1px solid #ccc;
+}
