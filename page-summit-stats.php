@@ -35,9 +35,9 @@ get_header(); ?>
           <table cellpadding="0" cellspacing="0" border="0">
             <thead>
               <td>Date</td>
-              <td>Peak Name</td>
+              <td>Peak name</td>
               <td>Elevation (ft.)</td>
-              <td>Vertical Ascent (ft.)</td>
+              <td>Elevation gain (ft.)</td>
               <td>Miles</td>
             </thead>        
 

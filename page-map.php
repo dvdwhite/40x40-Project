@@ -39,13 +39,13 @@ get_header(); ?>
         function initMap() {
                 
                 // centered on wasatch
-                var myLatLng = {lat: 40.633573, lng: -111.705311};
+                //var myLatLng = {lat: 40.633573, lng: -111.705311};
                 
                 // center for uintas inclusion
-                //var myLatLng = {lat: 40.675352, lng: -111.390423};
+                var myLatLng = {lat: 40.675352, lng: -111.290423};
 
                 var map = new google.maps.Map(document.getElementById('map'), {
-                  zoom: 11,
+                  zoom: 10,
                   center: myLatLng,
                   mapTypeId: 'terrain'
                 });
